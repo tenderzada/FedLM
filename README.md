@@ -19,3 +19,6 @@
 |-- utils.py     # 辅助功能
 ```
 
+### 记录
+
+20240515： First Update, 简单实现了FedAvg，多个客户端联合训练CNN用于Mnist。
